@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6737766d.chunk.css",
+    "main.js": "/static/js/main.428a0192.chunk.js",
+    "main.js.map": "/static/js/main.428a0192.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13537eb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13537eb1.js.map",
+    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
+    "static/js/2.5b7e86dc.chunk.js": "/static/js/2.5b7e86dc.chunk.js",
+    "static/js/2.5b7e86dc.chunk.js.map": "/static/js/2.5b7e86dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.035e42a1b13903ee6edd973180adfe5f.js": "/precache-manifest.035e42a1b13903ee6edd973180adfe5f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.6737766d.chunk.css.map": "/static/css/main.6737766d.chunk.css.map",
+    "static/js/2.5b7e86dc.chunk.js.LICENSE.txt": "/static/js/2.5b7e86dc.chunk.js.LICENSE.txt",
+    "static/media/corona.png": "/static/media/corona.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13537eb1.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.5b7e86dc.chunk.js",
+    "static/css/main.6737766d.chunk.css",
+    "static/js/main.428a0192.chunk.js"
+  ]
+}

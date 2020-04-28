@@ -1,0 +1,36 @@
+.Newscontainer {
+  display: inline-block;
+  justify-content: center;
+  /* width: 75%; */
+  margin-top: 50px;
+  margin-left: 8%;
+}
+
+@media (max-width:770px) {
+  .Newscontainer {
+    margin-left: 0%;
+  }
+}
+
+.newsblock {
+  margin-left: 20px;
+  margin-bottom: 20px;
+  min-height: 315px;
+}
+
+.newInlineBlock {
+  display: inline-block;
+}
+
+.publishDate {
+  margin-top: 5px;
+}
+
+.centeralign {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.Newscontainer a:hover {
+  text-decoration: none;
+}
